@@ -1,0 +1,1 @@
+#include<stdio.h>int main ( void )  { printf (  " Hello "  )  ; int x  =  2/3 ; printf (  " World "  )  ; return 0 ;  } 

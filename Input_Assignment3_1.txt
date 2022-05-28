@@ -1,0 +1,1 @@
+[kw int] [id main] [par (] [kw void] [par )] [par {]  [kw int] [id x] [op =] [num 2] [op /] [num 3] [sep ;]  [kw return] [num 0] [sep ;] [par }]  
